@@ -1,0 +1,16 @@
+{
+  "short_name": "AgriVision",
+  "name": "AgriVision AI Crop Health",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%2322c55e'><circle cx='96' cy='96' r='90' fill='%23052e16'/><path d='M96 32C60.7 32 32 60.7 32 96s28.7 64 64 64 64-28.7 64-64S131.3 32 96 32zm0 112c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48z' fill='%234ade80'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#03170e",
+  "theme_color": "#052e16",
+  "display": "standalone",
+  "orientation": "portrait"
+}
